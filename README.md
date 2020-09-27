@@ -1,10 +1,10 @@
 ### Hello! 👋
 
-- 💼 Senior Software Engineer @ G2
-- 📌 Chicago, Illinois
-- 💖 Ruby & Ruby on Rails
-- 💬 Pronouns: She/her/hers 
-- 📫 How to reach me: emilygreen@hey.com
+#### 💼 Senior Software Engineer @ G2
+#### 📌 Chicago, Illinois
+#### 💖 Ruby & Ruby on Rails
+#### 💬 Pronouns: She/her/hers 
+#### 📫 How to reach me: emilygreen@hey.com
 <!--
 **emgreen33/emgreen33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
