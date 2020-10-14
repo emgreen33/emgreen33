@@ -2,6 +2,7 @@
 
 #### 💼 Senior Software Engineer @ G2
 #### 📌 Chicago, Illinois
+#### 📫 emily.green@hey.com
 <!--
 **emgreen33/emgreen33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
