@@ -1,9 +1,6 @@
 ### Hello! 👋
 
-####  💼 Senior Software Engineer @ G2
 ####  📌 Chicago, Illinois
-####  🇬🇧 Born in England
-####  🇦🇺 Raised in Australia
 ####  📫 emily.green@hey.com
 <!--
 **emgreen33/emgreen33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
